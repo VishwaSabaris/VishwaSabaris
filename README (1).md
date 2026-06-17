@@ -1,260 +1,470 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vishwa%20Sabaris%20V&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Cloud%20%26%20DevOps%20%E2%80%A2%20Backend%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+# 👋 Hi, I'm Vishwa Sabaris
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=750&lines=Building+AI+Systems+that+Scale+%F0%9F%A7%A0;Automating+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Deploying+ML+Models+to+Production+%F0%9F%9A%80;Engineering+the+Future%2C+One+Commit+at+a+Time+%F0%9F%94%A7)](https://git.io/typing-svg)
+### ☁️ Automating Cloud Infrastructure • 🤖 Building AI Solutions • 🚀 Engineering Scalable Systems
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=850&lines=AI+%7C+Cloud+%7C+DevOps+Engineer;Building+Production+Ready+AI+Systems;Terraform+%7C+AWS+%7C+Kubernetes+%7C+GenAI;Always+Learning+and+Building" />
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwasabarisv)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwasabarisv)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwasabarisv@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=vishwasabarisv&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/vishwasabarisv?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS)
 
 </div>
 
 ---
 
-## 🧠 About Me
+#  About Me
 
-```yaml
-name        : Vishwa Sabaris V
-status      : B.E. CSE (AI & ML) — 2nd Year @ KIT, Coimbatore
-focus       : AI Systems | Cloud Infrastructure | MLOps | DevOps | Backend Engineering
-ambition    : Build production-grade AI platforms that scale from prototype to petabyte
-superpower  : Connecting AI research to real-world cloud deployment
-currently   : Building on AWS · Learning Kafka, Redis, Prometheus, Grafana & AI Agents
-open_to     : Internships · Research Collaborations · Open Source Contributions
-```
+<div align="center">
 
-> *"I don't just write code — I architect systems. From training deep learning models to deploying them behind load balancers on Kubernetes, I think in full-stack infrastructure."*
+Passionate Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning.
+
+Focused on building production-ready AI systems, cloud-native applications, automation platforms, DevOps pipelines, and scalable infrastructure.
+
+Combining AI, Cloud, DevOps, and Software Engineering to solve real-world problems through practical projects and continuous learning.
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🤖_ARTIFICIAL_INTELLIGENCE-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠_GENERATIVE_AI-B57EDC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/☁️_CLOUD_COMPUTING-7B2CBF?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/⚙️_DEVOPS_ENGINEERING-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/☸️_KUBERNETES-9D4EDD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_PLATFORM_ENGINEERING-39FF14?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/📚_MACHINE_LEARNING-7209B7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔍_MLOPS_&_LLMOPS-C77DFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖_AI_AGENTS-560BAD?style=for-the-badge" />
+
+</div>
+
+
+
+# 🛠 Tech Stack
+
+## Cloud Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+## DevOps & Containerization
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,githubactions" />
+</p>
+
+## Programming & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,flask" />
+</p>
+
+## AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-B57EDC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-9B5DE5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-6A0DAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Whisper-7B2CBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MobileNetV2-5A189A?style=for-the-badge"/>
+</p>
+
+## Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+## Monitoring & Observability
+
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+## Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+</p>
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,jupyter" />
+</p>
+
+## Domains
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-B57EDC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20Computing-6A0DAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevOps-9B5DE5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-7B2CBF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMOps-5A189A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Platform%20Engineering-3C096C?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark" />
-</p>
-
-### AI / Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-0081CB?style=flat-square&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-FF6B35?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MobileNetV2-FF9800?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sentence_Transformers-1DB954?style=flat-square&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-7B2FBE?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative_AI-00D9FF?style=flat-square&logo=sparkles&logoColor=white"/>
-</p>
-
-### Cloud & DevOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,linux&theme=dark" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IaC-7B36A8?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-</p>
-
-### Backend & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,mysql,git,github,vscode,jupyter&theme=dark" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webhooks-00C853?style=flat-square&logo=zapier&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### ☁️ [AWS 3-Tier HA Infrastructure](https://github.com/vishwasabarisv/aws-3tier-terraform)
-> **IaC · AWS · High Availability**
+<td width="50%">
 
-Architected a production-grade 3-tier AWS infrastructure using Terraform — VPC with public/private subnets, EC2 Auto Scaling Groups, Application Load Balancer, and Multi-AZ RDS. Full CI/CD pipeline via GitHub Actions.
+## ☁️ AWS 3-Tier HA Infrastructure
 
-`Terraform` `AWS` `VPC` `EC2` `ALB` `RDS` `GitHub Actions`
+**IaC • AWS • High Availability**
+
+Architected a production-grade AWS infrastructure using Terraform.
+
+### Features
+
+- VPC
+- Public & Private Subnets
+- Auto Scaling Groups
+- Application Load Balancer
+- Multi-AZ RDS
+- GitHub Actions CI/CD
+
+**Tech Stack**
+
+`Terraform` `AWS` `EC2` `ALB` `RDS`
 
 </td>
-<td width="50%" valign="top">
 
-### ⚙️ [EKS Flask Deployment via Helm](https://github.com/vishwasabarisv/eks-flask-helm)
-> **Kubernetes · GitOps · Production Deployment**
+<td width="50%">
 
-Containerized a Flask microservice, authored Kubernetes manifests and Helm charts, and deployed to Amazon EKS. Automated end-to-end via GitHub Actions with image push to ECR.
+## ☸️ EKS Flask Deployment
 
-`Docker` `Kubernetes` `Helm` `EKS` `GitHub Actions` `ECR`
+**Kubernetes • GitOps • Production Deployment**
+
+Containerized Flask application deployed on Amazon EKS.
+
+### Features
+
+- Dockerized Application
+- Kubernetes Manifests
+- Helm Charts
+- GitHub Actions Pipeline
+- Amazon EKS
+
+**Tech Stack**
+
+`Docker` `Kubernetes` `Helm` `EKS`
 
 </td>
+
 </tr>
+
 <tr>
-<td width="50%" valign="top">
 
-### 🤖 [Generative AI Suite](https://github.com/vishwasabarisv/genai-internship)
-> **RAG · Multimodal · LLMs**
+<td width="50%">
 
-Three production-style GenAI projects: a **System Prompt Architect** for LLM behavior design, a **RAG Document Analyst** using FAISS + Sentence Transformers, and a **Multimodal Content Engine** with Whisper-powered audio ingestion.
+## 🤖 Generative AI Suite
 
-`RAG` `FAISS` `Whisper` `Prompt Engineering` `Streamlit`
+**RAG • Multimodal AI • LLMs**
+
+Collection of Generative AI internship projects.
+
+### Projects
+
+- System Prompt Architect
+- RAG Document Analyst
+- Multimodal Content Engine
+
+**Tech Stack**
+
+`RAG` `FAISS` `Whisper` `Streamlit`
 
 </td>
-<td width="50%" valign="top">
 
-### 🌿 [Plant Disease Classifier](https://github.com/vishwasabarisv/plant-classification-dl)
-> **Deep Learning · Transfer Learning · CV**
+<td width="50%">
 
-Transfer-learned MobileNetV2 on plant image datasets for disease classification. Applied data augmentation and fine-tuning to achieve high validation accuracy.
+## 🌱 Plant Image Classifier
 
-`TensorFlow` `Keras` `MobileNetV2` `CNN` `Transfer Learning`
+**Deep Learning • Computer Vision**
+
+Transfer learning model using MobileNetV2.
+
+### Features
+
+- Data Augmentation
+- Transfer Learning
+- Fine Tuning
+- Plant Classification
+
+**Tech Stack**
+
+`TensorFlow` `Keras` `MobileNetV2`
 
 </td>
+
 </tr>
+
 <tr>
-<td width="50%" valign="top">
 
-### 🎙️ [AI Voice Agent – Tamil Restaurant Bot](https://github.com/vishwasabarisv/ai-voice-agent)
-> **NLP · Speech Recognition · Automation**
+<td width="50%">
 
-End-to-end voice-driven restaurant order system with Tamil language support. Uses Faster Whisper for STT, scikit-learn for intent classification, gTTS for synthesis, and automated email confirmations.
+## 🎙 AI Voice Agent
 
-`Faster Whisper` `Tamil NLP` `gTTS` `Scikit-Learn` `Email Automation`
+**Speech Recognition • NLP**
+
+Tamil voice-based restaurant ordering system.
+
+### Features
+
+- Speech-to-Text
+- Intent Classification
+- Voice Responses
+- Automated Email Confirmation
+
+**Tech Stack**
+
+`Whisper` `Python` `NLP` `gTTS`
 
 </td>
-<td width="50%" valign="top">
 
-### 📧 [Email Automation Platform](https://github.com/vishwasabarisv/email-automation)
-> **Web Scraping · Workflow Automation · n8n**
+<td width="50%">
 
-Automated hackathon discovery pipeline that scrapes event listings, filters by criteria, and dispatches personalized email alerts using n8n workflows and Python scripting.
+## 📧 Email Automation Platform
 
-`Python` `Web Scraping` `n8n` `Webhooks` `Automation`
+**Web Scraping • Automation**
+
+Automated hackathon discovery and notification system.
+
+### Features
+
+- Event Scraping
+- Filtering
+- Email Generation
+- Workflow Automation
+
+**Tech Stack**
+
+`Python` `n8n` `Automation`
 
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 Memory Matrix Game
+
+**C Programming • Memory Management**
+
+Console-based game demonstrating pointers and dynamic memory.
+
+### Features
+
+- Dynamic Matrices
+- Pointer References
+- Memory Allocation
+- Score Tracking
+
+**Tech Stack**
+
+`C` `Pointers` `Memory Management`
+
+</td>
+
+<td width="50%">
+
+## 🌸 Iris Data Classification
+
+**Machine Learning • Classification**
+
+Interactive ML application using Iris dataset.
+
+### Features
+
+- KNN Classification
+- Feature Scaling
+- Streamlit UI
+- Real-Time Predictions
+
+**Tech Stack**
+
+`Scikit-Learn` `Python` `Streamlit`
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-## 📈 GitHub Stats
+# 🗺 Learning Roadmap
 
-<div align="center">
+```text
+2024 — Foundation
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishwasabarisv&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwasabarisv&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" height="180" />
+├── Python
+├── C Programming
+├── Linux Basics
+├── Git & GitHub
+└── Machine Learning Fundamentals
 
-</div>
+2025 — Deep Specialization
 
-<div align="center">
+├── Deep Learning
+├── Computer Vision
+├── Generative AI
+├── RAG Systems
+├── AWS
+├── Terraform
+├── Docker
+├── Kubernetes
+└── GitHub Actions
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishwasabarisv&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+NOW — ACTIVE LEARNING
 
-</div>
+├── Kafka
+├── Redis
+├── RabbitMQ
+├── Prometheus
+├── Grafana
+├── ELK Stack
+├── MLOps
+├── LLMOps
+├── AI Agents
+├── MCP Servers
+└── Platform Engineering
 
----
+2026 GOAL
 
-## 🐍 Contribution Graph
+Production AI Platform Engineer
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vishwasabarisv/vishwasabarisv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🗺️ Learning Roadmap
-
-```
-2024 ── Foundation
-        ├── Python · C · C++ · Linux Basics
-        ├── Git · GitHub · REST APIs
-        └── ML Fundamentals · Scikit-Learn
-
-2025 ── Deep Specialization
-        ├── Deep Learning · CNN · Transfer Learning (TensorFlow · Keras)
-        ├── Generative AI · Prompt Engineering · RAG · FAISS
-        ├── AWS · Terraform · Docker · Kubernetes · GitHub Actions
-        └── EKS · Helm · IaC · CI/CD Pipelines
-
-Now ─── Active Learning
-        ├── [ ] Kafka · Redis (Event Streaming & Caching)
-        ├── [ ] Prometheus · Grafana (Observability)
-        ├── [ ] MLOps · LLMOps (AI in Production)
-        ├── [ ] Platform Engineering (Internal Developer Platforms)
-        └── [ ] AI Agents (Autonomous LLM Systems)
-
-2026 ── Target
-        └── Production AI Platform Engineer
-            (AI Systems · Cloud Infrastructure · MLOps · SRE)
+AI + Cloud + DevOps + Infrastructure
 ```
 
 ---
 
-## 🏅 Certifications & Programs
+# 🎯 Current Focus
+
+## ☁️ Cloud Native Infrastructure
+
+- AWS
+- Terraform
+- Docker
+- Kubernetes
+- Helm
+
+## 🤖 AI Systems
+
+- RAG Pipelines
+- Vector Databases
+- AI Agents
+- LLMOps
+
+## 📊 Observability
+
+- Prometheus
+- Grafana
+- ELK Stack
+
+## 🚀 Platform Engineering
+
+- Kafka
+- Redis
+- Internal Developer Platforms
+
+---
+
+# 🏆 Certifications & Programs
+
+| Credential | Domain |
+|------------|---------|
+| 🎓 Generative AI Internship Program | Generative AI |
+| ☁ Microsoft Learn Certifications | Cloud & AI |
+| 📚 NPTEL Courses | Computer Science |
+| 🚀 AWS Learning Paths | Cloud Computing |
+| 🤖 AI/ML Academic Projects | Machine Learning |
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-| Credential | Issuer | Domain |
-|:---|:---|:---|
-| 🏆 Generative AI Internship Program | Industry | GenAI · LLMs · RAG |
-| 📜 Microsoft Learn Certifications | Microsoft | Cloud · AI Fundamentals |
-| 🎓 NPTEL Courses | IIT / NPTEL | CS · Programming |
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=VishwaSabaris&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaSabaris&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=VishwaSabaris&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwasabarisv&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b35&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🤝 Connect With Me
+# 🐍 Contribution Graph
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishwasabarisv)
-[![Email](https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwasabarisv@gmail.com)
-[![GitHub](https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwasabarisv)
-
-<br/>
-
-**📍 Coimbatore, Tamil Nadu, India**  
-*Open to remote internships, research roles, and open-source collaboration worldwide.*
+![Snake animation](https://github.com/VishwaSabaris/VishwaSabaris/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
+# 🤝 Connect With Me
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<a href="https://www.linkedin.com/in/vishwa-sabaris-aa487837b/">
+<img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-**"Infrastructure is the canvas. AI is the art. I build both."**
+<a href="mailto:vishwasabaris655@gmail.com">
+<img src="https://img.shields.io/badge/Drop%20Me%20An%20Email-B57EDC?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-*Last updated: 2025 · Built with purpose, not a template.*
+<a href="https://github.com/VishwaSabaris">
+<img src="https://img.shields.io/badge/Explore%20My%20GitHub-3C096C?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📍 Coimbatore, Tamil Nadu, India
+
+Open to internships, AI engineering opportunities, cloud projects, DevOps roles, and open-source collaborations.
+
+</div>
+
+---
+
+<div align="center">
+
+## 💜 Automating Infrastructure. Building Intelligence.
+
+*"Infrastructure is the canvas. AI is the art. I build both."*
 
 </div>
