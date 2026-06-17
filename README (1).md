@@ -1,16 +1,31 @@
 <div align="center">
+<div align="center">
 
-# 👋 Hi, I'm Vishwa Sabaris
+<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:00D9FF,50:7B2CBF,100:B57EDC&text=Vishwa%20Sabaris&fontSize=50&fontColor=FFFFFF&animation=fadeIn" />
 
-### ☁️ Automating Cloud Infrastructure • 🤖 Building AI Solutions • 🚀 Engineering Scalable Systems
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=850&lines=AI+%7C+Cloud+%7C+DevOps+Engineer;Building+Production+Ready+AI+Systems;Terraform+%7C+AWS+%7C+Kubernetes+%7C+GenAI;Always+Learning+and+Building" />
+<br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=B57EDC&center=true&vCenter=true&width=900&lines=AI+%7C+Cloud+%7C+DevOps+Engineer;Building+Production+Ready+AI+Systems;Terraform+%7C+AWS+%7C+Kubernetes+%7C+GenAI;Cloud+Automation+%7C+Infrastructure+as+Code;MLOps+%7C+LLMOps+%7C+Platform+Engineering;Always+Learning+and+Building" />
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=VishwaSabaris&label=Profile%20Views&color=7B2CBF&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/VishwaSabaris?label=Followers&style=for-the-badge&color=B57EDC" />
+
+<img src="https://img.shields.io/github/stars/VishwaSabaris?affiliations=OWNER&style=for-the-badge&color=00F5FF" />
 
 </div>
 
 ---
+
+<div align="center">
+
+### 🚀 Building AI Systems • Automating Cloud • Engineering Infrastructure
+
+</div>
 
 #  About Me
 
@@ -312,51 +327,6 @@ Interactive ML application using Iris dataset.
 
 ---
 
-# 🗺 Learning Roadmap
-
-```text
-2024 — Foundation
-
-├── Python
-├── C Programming
-├── Linux Basics
-├── Git & GitHub
-└── Machine Learning Fundamentals
-
-2025 — Deep Specialization
-
-├── Deep Learning
-├── Computer Vision
-├── Generative AI
-├── RAG Systems
-├── AWS
-├── Terraform
-├── Docker
-├── Kubernetes
-└── GitHub Actions
-
-NOW — ACTIVE LEARNING
-
-├── Kafka
-├── Redis
-├── RabbitMQ
-├── Prometheus
-├── Grafana
-├── ELK Stack
-├── MLOps
-├── LLMOps
-├── AI Agents
-├── MCP Servers
-└── Platform Engineering
-
-2026 GOAL
-
-Production AI Platform Engineer
-
-AI + Cloud + DevOps + Infrastructure
-```
-
----
 
 # 🎯 Current Focus
 
